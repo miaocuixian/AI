@@ -13,4 +13,10 @@ Qq：1504885030
 Vx：QYKJ88886666
 
 #### 软件截图
-https://github.com/miaocuixian/AI/blob/main/Applocation1.png
+![大厅](https://github.com/miaocuixian/AI/blob/main/Applocation1.png "大厅.jpg")
+![1](https://github.com/miaocuixian/AI/blob/main/Applocation2.png "1.jpg")
+![2](https://github.com/miaocuixian/AI/blob/main/Login.png "2.jpg")
+![3](https://github.com/miaocuixian/AI/blob/main/Shop.png "3.jpg")
+![4](https://github.com/miaocuixian/AI/blob/main/Shop2.png "4.jpg")
+![5](https://github.com/miaocuixian/AI/blob/main/Shop3.png "5.jpg")
+![6](https://github.com/miaocuixian/AI/blob/main/%E5%A4%A7%E5%8E%85.png "6.jpg")
